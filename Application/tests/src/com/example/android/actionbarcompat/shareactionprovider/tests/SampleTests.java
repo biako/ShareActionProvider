@@ -33,7 +33,7 @@ public class SampleTests extends ActivityInstrumentationTestCase2<MainActivity> 
     @Override
     protected void setUp() throws Exception {
         super.setUp();
-
+        //
         // Starts the activity under test using the default Intent with:
         // action = {@link Intent#ACTION_MAIN}
         // flags = {@link Intent#FLAG_ACTIVITY_NEW_TASK}
